@@ -11,6 +11,7 @@ const sidebars = {
         'appendix/case-comparison',
         'appendix/methodology',
         'appendix/consultation-log',
+        'appendix/policy-alignment',
       ],
     },
   ],
