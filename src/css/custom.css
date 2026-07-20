@@ -1,0 +1,13 @@
+:root {
+  --ifm-color-primary: #0b6b75;
+  --ifm-color-primary-dark: #095f68;
+  --ifm-color-primary-darker: #085961;
+  --ifm-color-primary-darkest: #06494f;
+  --ifm-color-primary-light: #0d7782;
+  --ifm-color-primary-lighter: #0e7d89;
+  --ifm-color-primary-lightest: #10909d;
+  --ifm-font-family-base: system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+}
+table { font-size: 0.92rem; }
+.markdown h1 { letter-spacing: 0.02em; }
+.markdown blockquote { border-left: 4px solid var(--ifm-color-primary); background: #f4fbfc; padding: 0.75rem 1rem; }
