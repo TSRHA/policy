@@ -8,6 +8,7 @@ const sidebars = {
       items: [
         'appendix/references',
         'appendix/legal-materials',
+        'appendix/harvest-methods',
         'appendix/case-comparison',
         'appendix/methodology',
         'appendix/consultation-log',
