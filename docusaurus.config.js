@@ -2,8 +2,8 @@
 const config = {
   title: '台灣海洋永續休閒採捕政策白皮書',
   tagline: '以證據、風險與共同治理取代工具名稱禁令',
-  url: 'https://policy.pages.dev',
-  baseUrl: '/',
+  url: 'https://tsrha.github.io',
+  baseUrl: '/policy/',
   organizationName: 'TSRHA',
   projectName: 'policy',
   onBrokenLinks: 'throw',
