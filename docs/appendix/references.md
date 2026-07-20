@@ -32,7 +32,7 @@ title: 參考文獻
 |---|---|---|---|
 | 美國佛州 | Red drum slot 18–27 inches | https://myfwc.com/fishing/saltwater/recreational/red-drum/ | 已連線驗證（200） |
 | 澳洲昆士蘭 | Tidal waters size and possession limits | https://www.daf.qld.gov.au/business-priorities/fisheries/recreational/recreational-fishing-rules/size-possession-limits-tidal-waters | 需人工補件（本次連線 403；應保存官方 PDF/快照） |
-| 帛琉 | Domestic Fishing Laws 2012 民眾版法規說明 | SPC／Palau Bureau of Marine Resources 文件；本機摘要：`/home/marine/marine_knowledge/Palau_domestic_fishing_laws_2012_重點摘要.md` | 已取得文件與本機文字摘要；定稿前應補正式法律文本、最新修法狀態與可公開 URL／快照 |
+| 帛琉 | Domestic Fishing Laws 2012 民眾版法規說明 | [Pacific Data Hub：Domestic Fishing Laws 2012](https://pacificdata.org/data/dataset/oai-www-spc-int-f2b17580-e978-424a-ad0f-6b8e18c0f11a) | 已列入公開線上來源；定稿前應補正式法律文本、最新修法狀態與官方快照 |
 | 紐西蘭 | Recreational fishing rules | https://www.mpi.govt.nz/fishing-aquaculture/recreational-fishing/fishing-rules/ | 已連線驗證（200） |
 | 西班牙 | Real Decreto 347/2011 | https://www.boe.es/buscar/act.php?id=BOE-A-2011-6099 | 已連線驗證（200） |
 
