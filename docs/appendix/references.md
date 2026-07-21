@@ -10,32 +10,6 @@ title: 參考文獻
 - **需人工補件：** 來源存在於研究報告或地方公告描述中，但白皮書定稿前應下載 PDF、保存快照、標頁碼與文號。
 - **待查證：** 尚未取得原文，不得作為定稿主張唯一依據。
 
-## 研究報告
-
-| 來源 | URL | 驗證狀態 |
-|---|---|---|
-| 友善採捕・現況與問題 | https://liumusicforever.github.io/friendly-harvest-research/index.html | 已連線驗證（200） |
-| 友善採捕・短中長期建議 | https://liumusicforever.github.io/friendly-harvest-research/plan.html | 已連線驗證（200） |
-
-## 科學文獻
-
-| 主題 | 文獻 | 原始來源 | 驗證狀態 |
-|---|---|---|---|
-| Froese 三指標、Lopt、mega-spawners | Froese, R. (2004). Keep it simple: three indicators to deal with overfishing. *Fish and Fisheries*, 5, 86–91. | https://doi.org/10.1111/j.1467-2979.2004.00144.x | DOI 需人工補件（本次連線遇 403，但 DOI 與研究報告引文一致） |
-| 釣獲放流致死率 | Bartholomew, A. & Bohnsack, J.A. (2005). A review of catch-and-release angling mortality. *Reviews in Fish Biology and Fisheries*, 15, 129–154. | https://doi.org/10.1007/s11160-005-2175-1 | 已連線驗證（DOI 解析至 Springer） |
-| 魚槍全球回顧 | Sbragaglia et al. (2023). Spearfishing review. *Reviews in Fish Biology and Fisheries*. | https://doi.org/10.1007/s11160-023-09790-7 | 已連線驗證（DOI 解析至 Springer） |
-| ERAEF 生態風險評估 | Hobday et al. (2011). Ecological Risk Assessment for the Effects of Fishing. *Fisheries Research*, 108, 372–384. | https://doi.org/10.1016/j.fishres.2011.01.013 | 已連線驗證（DOI 解析至 Elsevier） |
-
-## 官方／國際案例來源
-
-| 地區 | 主題 | URL | 驗證狀態 |
-|---|---|---|---|
-| 美國佛州 | Red drum slot 18–27 inches | https://myfwc.com/fishing/saltwater/recreational/red-drum/ | 已連線驗證（200） |
-| 澳洲昆士蘭 | Tidal waters size and possession limits | https://www.daf.qld.gov.au/business-priorities/fisheries/recreational/recreational-fishing-rules/size-possession-limits-tidal-waters | 需人工補件（本次連線 403；應保存官方 PDF/快照） |
-| 帛琉 | Domestic Fishing Laws 2012 民眾版法規說明 | [Pacific Data Hub：Domestic Fishing Laws 2012](https://pacificdata.org/data/dataset/oai-www-spc-int-f2b17580-e978-424a-ad0f-6b8e18c0f11a) | 已列入公開線上來源；定稿前應補正式法律文本、最新修法狀態與官方快照 |
-| 紐西蘭 | Recreational fishing rules | https://www.mpi.govt.nz/fishing-aquaculture/recreational-fishing/fishing-rules/ | 已連線驗證（200） |
-| 西班牙 | Real Decreto 347/2011 | https://www.boe.es/buscar/act.php?id=BOE-A-2011-6099 | 已連線驗證（200） |
-
 ## 台灣法規與官方資料
 **——「台灣海洋永續休閒漁獵政策白皮書」補充參考資料**
 
@@ -327,6 +301,33 @@ title: 參考文獻
 2. law.moj.gov.tw（全國法規資料庫）為法律與法規命令之首選引用來源；漁業法第44條公告類則以漁業署「直轄市及縣市政府公告法令」彙整頁及各縣市政府公報／公告原文為準。
 3. 查證發現可直接支持白皮書論點的兩個制度事實：（一）漁業法體系下並無原住民採捕水產動植物之專門管理辦法（規範散落於原基法第19條與槍砲條例子法）；（二）現行漁業統計年報未涵蓋休閒採捕漁獲，佐證資料回報缺口。
 4. 新北市 115.6.17 之貢寮、萬里、瑞芳三份草案 PDF 均附於同一預告頁（msgid=7407），並無三個獨立網址。
+
+
+## 研究報告
+
+| 來源 | URL | 驗證狀態 |
+|---|---|---|
+| 友善採捕・現況與問題 | https://liumusicforever.github.io/friendly-harvest-research/index.html | 已連線驗證（200） |
+| 友善採捕・短中長期建議 | https://liumusicforever.github.io/friendly-harvest-research/plan.html | 已連線驗證（200） |
+
+## 科學文獻
+
+| 主題 | 文獻 | 原始來源 | 驗證狀態 |
+|---|---|---|---|
+| Froese 三指標、Lopt、mega-spawners | Froese, R. (2004). Keep it simple: three indicators to deal with overfishing. *Fish and Fisheries*, 5, 86–91. | https://doi.org/10.1111/j.1467-2979.2004.00144.x | DOI 需人工補件（本次連線遇 403，但 DOI 與研究報告引文一致） |
+| 釣獲放流致死率 | Bartholomew, A. & Bohnsack, J.A. (2005). A review of catch-and-release angling mortality. *Reviews in Fish Biology and Fisheries*, 15, 129–154. | https://doi.org/10.1007/s11160-005-2175-1 | 已連線驗證（DOI 解析至 Springer） |
+| 魚槍全球回顧 | Sbragaglia et al. (2023). Spearfishing review. *Reviews in Fish Biology and Fisheries*. | https://doi.org/10.1007/s11160-023-09790-7 | 已連線驗證（DOI 解析至 Springer） |
+| ERAEF 生態風險評估 | Hobday et al. (2011). Ecological Risk Assessment for the Effects of Fishing. *Fisheries Research*, 108, 372–384. | https://doi.org/10.1016/j.fishres.2011.01.013 | 已連線驗證（DOI 解析至 Elsevier） |
+
+## 官方／國際案例來源
+
+| 地區 | 主題 | URL | 驗證狀態 |
+|---|---|---|---|
+| 美國佛州 | Red drum slot 18–27 inches | https://myfwc.com/fishing/saltwater/recreational/red-drum/ | 已連線驗證（200） |
+| 澳洲昆士蘭 | Tidal waters size and possession limits | https://www.daf.qld.gov.au/business-priorities/fisheries/recreational/recreational-fishing-rules/size-possession-limits-tidal-waters | 需人工補件（本次連線 403；應保存官方 PDF/快照） |
+| 帛琉 | Domestic Fishing Laws 2012 民眾版法規說明 | [Pacific Data Hub：Domestic Fishing Laws 2012](https://pacificdata.org/data/dataset/oai-www-spc-int-f2b17580-e978-424a-ad0f-6b8e18c0f11a) | 已列入公開線上來源；定稿前應補正式法律文本、最新修法狀態與官方快照 |
+| 紐西蘭 | Recreational fishing rules | https://www.mpi.govt.nz/fishing-aquaculture/recreational-fishing/fishing-rules/ | 已連線驗證（200） |
+| 西班牙 | Real Decreto 347/2011 | https://www.boe.es/buscar/act.php?id=BOE-A-2011-6099 | 已連線驗證（200） |
 
 ## 2025 國家海洋政策白皮書可引用依據表
 
