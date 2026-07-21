@@ -41,7 +41,7 @@ title: 參考文獻
 | 主題 | URL | 驗證狀態 |
 |---|---|---|
 | 2025 國家海洋政策白皮書（完整版） | https://www.oac.gov.tw/ch/home.jsp?id=681&parentpath=0,447 | 已連線驗證；已下載並以 PDF 文字抽取檢索（184 頁） |
-| 新北市貢寮、萬里、瑞芳水產動植物繁殖保育區及有關限制事項公告草案 | https://web.law.ntpc.gov.tw/news.aspx?msgid=7407 | 已連線驗證；使用者提供 PDF 與本機文字抽取檔輔助比對，仍需定稿前補發文字號、發布／預告程序紀錄與最終公告版本 |
+| 新北市貢寮、萬里、瑞芳水產動植物繁殖保育區及有關限制事項公告草案 | https://web.law.ntpc.gov.tw/news.aspx?msgid=7407 | 已連線驗證；定稿前仍需補發文字號、發布／預告程序紀錄與最終公告版本 |
 | 漁業法 | https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0050001 | 已連線驗證（200） |
 | 槍砲彈藥刀械管制條例 | https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080047 | 已連線驗證（200） |
 | 海洋委員會友善釣魚／向海致敬資料 | https://www.oca.gov.tw/ | 需人工補件（本次 SSL 驗證失敗；應下載官方 PDF 並保存） |
